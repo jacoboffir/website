@@ -133,6 +133,11 @@
   {
       margin:100px auto;
   }
+
+  .inner a {
+    text-decoration: none;
+    color: rgba(0,0,0,.75);
+  }
   
   ul
   {
